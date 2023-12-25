@@ -38,4 +38,4 @@ override.tf.json
 terraform.rc
 #*.txt
 /file2.txt
-/file.txt
+/file3.txt

@@ -1,6 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
-**/.terraform/*.json
+/terraform/tf-key.json
+
 
 ./terraform/*.json
 
@@ -35,5 +36,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-*.txt
-/file.txt
+#*.txt
+/file2.txt
